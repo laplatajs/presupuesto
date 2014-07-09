@@ -1,0 +1,26 @@
+{
+  "name": "LPJSBudget",
+  "version": "1.0.0",
+  "description": "La Plata JS Budget on the console.",
+  "main": "budget.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/laplatajs/presupuesto.git"
+  },
+  "keywords": [
+    "budget",
+    "fun",
+    "meetups"
+  ],
+  "author": "LaPlataJS",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/laplatajs/presupuesto/issues"
+  },
+  "dependencies": {
+    "colors": "^0.6.2"
+  }
+}
